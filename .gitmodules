@@ -1,0 +1,3 @@
+[submodule "submodules/w10vpc-ec2-alb"]
+	path = submodules/w10vpc-ec2-alb
+	url = https://github.com/Ajizzle404/w10vpc-ec2-alb.git
